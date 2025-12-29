@@ -1,4 +1,4 @@
-# Product Analytics with SQL (Funnel,Cohort,Retention,Anomaly Alerts)-theLook eCommerce
+# Product Analytics with SQL (Funnel,Cohort Retention,Anomaly Alerts)-theLook eCommerce
 
 ## Overview
 This Portfolio Project demonstrates how SQL to answer end-to-end Question:
